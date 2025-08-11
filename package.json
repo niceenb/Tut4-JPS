@@ -1,0 +1,14 @@
+{
+ "name": "job-scheduler",
+ "version": "1.0.0",
+ "description": "Python OOP + REST tutorial",
+ "main": "server.js",
+ "scripts": {
+ "server": "node server.js",
+ "run:py": "cd backend && python app.py"
+ },
+ "dependencies": {
+ "cors": "^2.8.5",
+ "express": "^4.19.2"
+ }
+}
